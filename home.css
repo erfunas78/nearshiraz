@@ -8,27 +8,27 @@ html{
 }
 @font-face {
     font-family: 'irannastaliq';
-    src: url('../fonts/IranNastaliq.ttf') format(truetype);
+    src: url('IranNastaliq.ttf') format(truetype);
 }
 @font-face {
     font-family: 'Anafis';
-    src: url('../fonts/ANafis.ttf') format(truetype);
+    src: url('ANafis.ttf') format(truetype);
 }
 @font-face {
     font-family: 'Mj';
-    src: url('../fonts/Mj_Mashtour_0.ttf');
+    src: url('Mj_Mashtour_0.ttf');
 }
 @font-face {
     font-family: 'fantezyy';
-    src: url('../fonts/Mj_Mashtour_0.ttf') format(truetype);
+    src: url('Mj_Mashtour_0.ttf') format(truetype);
 }
 @font-face {
     font-family: Bnazanin;
-    src: url('../fonts/Far_Nazanin.ttf')format('truetype');
+    src: url('Far_Nazanin.ttf')format('truetype');
 }
 @font-face {
     font-family: 'Btitr';
-    src: url('../fonts/B\ Titr\ Bold_0.ttf')format('truetype');
+    src: url('B\ Titr\ Bold_0.ttf')format('truetype');
 }
 .container{
     width: 100%;
